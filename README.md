@@ -31,6 +31,17 @@
       <sub>Analyze sales trends & customer preferences</sub>
     </td>
   </tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3231/3231632.png" width="80px"><br>
+      <strong>⚽ M. Salah Analysis</strong><br>
+      <sub>Performance and career statistics of Mohamed Salah</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/6393/6393186.png" width="80px"><br>
+      <strong>💖 Valentine's Day Insights</strong><br>
+      <sub>Trends, spending, and behaviors on Valentine's Day</sub>
+    </td>
+  </tr>
 </table>
 
 📢 **I keep adding new projects!** 🚀  
