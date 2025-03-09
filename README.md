@@ -31,6 +31,7 @@
       <sub>Analyze sales trends & customer preferences</sub>
     </td>
   </tr>
+  <tr>
     <td align="center">
       <img src="https://cdn-icons-png.flaticon.com/512/3231/3231632.png" width="80px"><br>
       <strong>⚽ M. Salah Analysis</strong><br>
@@ -40,6 +41,11 @@
       <img src="https://cdn-icons-png.flaticon.com/512/6393/6393186.png" width="80px"><br>
       <strong>💖 Valentine's Day Insights</strong><br>
       <sub>Trends, spending, and behaviors on Valentine's Day</sub>
+    </td>
+    <td align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/320px-RMS_Titanic_3.jpg" width="80px"><br>
+      <strong>🚢 Titanic Analysis</strong><br>
+      <sub>Survival factors and passenger data analysis</sub>
     </td>
   </tr>
 </table>
